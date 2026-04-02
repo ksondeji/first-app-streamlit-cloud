@@ -1,6 +1,10 @@
 # Prédicteur de churn — Streamlit
 
+<div align="center">
+  
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://first-app-cloud-vhjtmtp83vfptgbkssvy8i.streamlit.app/)
+
+</div>
 
 ## Présentation
 
@@ -16,6 +20,11 @@ Le churn (départ des clients) a un impact direct sur le chiffre d’affaires et
 - **Seuil d’alerte** : au-delà de **50 %**, le risque est affiché comme élevé ; en dessous, comme faible.
 Pour un usage métier, il faudrait entraîner sur de vraies données et valider les performances (métriques, seuil, biais).
 
+---
+ ## [Démo live sur streamlit cloud](https://first-app-cloud-vhjtmtp83vfptgbkssvy8i.streamlit.app/)
+
+ ---
+ 
 ## Installation rapide
 
 ```bash
