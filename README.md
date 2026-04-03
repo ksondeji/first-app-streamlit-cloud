@@ -2,7 +2,9 @@
 
 <div align="center">
   
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://first-app-cloud-vhjtmtp83vfptgbkssvy8i.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://first-api-ml-render.onrender.com/docs#/)
+
+**Documentation interactive (prod)** : [Render](https://first-api-ml-render.onrender.com/docs#/)
 
 </div>
 
